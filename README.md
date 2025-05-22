@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amos770
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning  Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project that is programmed using python, Java or  C++
 - 📫 How to reach me (amosmbazira4@gmail.com)
 - 😄 Pronouns: Ambitious
 - ⚡ Fun fact: ...
